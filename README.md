@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weather26
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
